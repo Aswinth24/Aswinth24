@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aswinth24
 - 👀 I’m interested in development related fields
-- 🌱 I’m currently learning programming languages and front development courses
+- 🌱 I’m currently learning programming language,front development and back end develoment courses
 - 📫 Reach me through aswinth24@gmail.com
 
 <!---
