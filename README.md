@@ -1,13 +1,44 @@
 <h1>Hi I'm Aswinth</h1>
 💫 About Me:<br>
-🔭 I’m currently looking for a developer job<br>🌱 I’m currently learning advance java,Javascript,react,node.js and express.<br>💬 Ask me about java <br>
+🔭 I’m currently looking for a developer job<br>🌱 I’m currently learning advanced java,Javascript,react,node.js and express.<br>💬 Ask me about java <br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswinth-k-a76674214/) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<a href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswinth-k-a76674214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> &nbsp;
+<a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+
+# Cooding Platforms
+
+<a href="https://auth.geeksforgeeks.org/user/aswinth_24/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"><a> &nbsp;
+<a href="https://leetcode.com/Aswinth24/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"></a>&nbsp;
+<a href="https://www.hackerrank.com/aswinth24?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a> 
+  
+<br>
+  
+# 💻 Skills
+  
+  
+- **Programming Languages**:
+  
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+   ![C](http://img.shields.io/badge/C%20-%23F7DF1E.svg?style=for-the-badge&logo=C&logoColor=black)&nbsp;
+  
+    <br>
+  
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+   <br>
+  
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aswinth24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aswinth24&theme=tokyonight&hide_border=false)<br/>
