@@ -5,9 +5,8 @@
 
 ## 🌐 Socials:
 
-<a href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://
- https://www.linkedin.com/in/aswinth-k-a76674214//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> &nbsp;
-<a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aswinth-k-a76674214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+
 
 # Cooding Platforms
 
