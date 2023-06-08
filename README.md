@@ -1,8 +1,9 @@
 <h1>Hi I'm Aswinth</h1>
 <h2>💫 About Me:</h2>
-**🔭 I’m currently looking for a developer job**
-**🌱 I’m currently learning advanced java,Javascript,react,node.js and express.**
-**💬 Ask me about java **
+
+**🔭 I’m currently looking for a developer job**<br>
+**🌱 I’m currently learning advanced java,Javascript,react,node.js and express.**<br>
+**💬 Ask me about java**
 
 
 # 🌐 Socials
