@@ -2,6 +2,7 @@
 <h2>💫 About Me:</h2>
 
 **🔭 I’m currently looking for a developer job**<br>
+**🎯Self taught Java developer and Frontend Developer**<br>
 **🌱 I’m currently learning advanced java,Javascript,react,node.js and express.**<br>
 **💬 Ask me about java**
 
