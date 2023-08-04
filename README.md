@@ -71,9 +71,12 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=Aswinth24&show_icons=true&theme=react&&hide_border=true"
 />
-<img
+<!--<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinth24&&theme=react&&hide_border=true"
-/>
+/>-->
+ <img 
+  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aswinth24&layout=compact&theme=react" 
+  />
 <br/>
 ![](https://komarev.com/ghpvc/?username=Aswinth24)
   
