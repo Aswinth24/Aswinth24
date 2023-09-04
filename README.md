@@ -25,14 +25,14 @@
 **Let's connect and grow together in the world of coding! 🚀**
 
 
-
+<br>
 
 # 🌐 Socials
 
 <a href="https://www.linkedin.com/in/aswinth-k-a76674214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="mailto:aswinth24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-
+<br>
 
 # 🧑‍💻 Cooding Platforms
 <a href="https://auth.geeksforgeeks.org/user/aswinth_24/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"><a> &nbsp;
@@ -40,7 +40,7 @@
  &nbsp;
   <a href="https://www.hackerrank.com/aswinth24?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> &nbsp;
   <br>
-
+<br>
 # 🔧 Technologies and Tools
 
  <table>
@@ -85,6 +85,7 @@
    
   </tr>
  </table>
+ <br>
  
 # 📈 Stats
 
@@ -94,9 +95,10 @@
 <!--<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinth24&&theme=react&&hide_border=true"
 />-->
+<br>
  <img 
   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aswinth24&layout=compact&theme=react" 
   />
 <br/>
-![](https://komarev.com/ghpvc/?username=Aswinth24)
+
   
