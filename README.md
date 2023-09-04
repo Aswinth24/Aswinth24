@@ -1,4 +1,4 @@
-## 💫 About Me
+## 🎯 About Me 
 
 👋 Hello there! I'm **Aswinth K**, I'm a passionate and self-taught developer on a mission to grow and excel in software development.
 
