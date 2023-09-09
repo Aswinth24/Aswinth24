@@ -1,5 +1,7 @@
 ## 🎯 About Me 
 
+![Hi, I am Aswinth K](https://github.com/Aswinth24/Aswinth24/assets/111903275/74fe4998-7688-4405-96e3-d8362abd9e11)
+
 👋 Hello there! I'm **Aswinth K**, I'm a passionate and self-taught developer on a mission to grow and excel in software development.
 
 ## 👨‍💻 I primarily focus on two key areas:
