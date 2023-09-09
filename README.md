@@ -4,11 +4,9 @@
 ![Hi, I am Aswinth K](https://github.com/Aswinth24/Aswinth24/assets/111903275/19cd34b1-ce8a-4434-89a4-1656e288db63)
 
 <br>
-<div align="center>
  
 👋 Hello there! I'm **Aswinth K**, a passionate and self-taught developer on a mission to grow and excel in software development.
 
-</div>
 
 ## 👨‍💻 I primarily focus on two key areas:
 
