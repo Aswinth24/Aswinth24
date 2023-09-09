@@ -1,26 +1,30 @@
 ## 🎯 About Me 
+<br>
 
-![Hi, I am Aswinth K](https://github.com/Aswinth24/Aswinth24/assets/111903275/74fe4998-7688-4405-96e3-d8362abd9e11)
+![Hi, I am Aswinth K](https://github.com/Aswinth24/Aswinth24/assets/111903275/19cd34b1-ce8a-4434-89a4-1656e288db63)
 
-👋 Hello there! I'm **Aswinth K**, I'm a passionate and self-taught developer on a mission to grow and excel in software development.
+<br>
+<div align="center>
+ 
+👋 Hello there! I'm **Aswinth K**, a passionate and self-taught developer on a mission to grow and excel in software development.
+
+</div>
 
 ## 👨‍💻 I primarily focus on two key areas:
 
-- 💡 **Java Development**: I'm a self-taught Java developer with a keen interest in building robust and efficient applications using Java.
+- 💡 **Java Development**: I'm a self-taught Java developer interested in building robust and efficient applications using Java.
 
 - 🌐 **Frontend Development**: I also have a strong interest in frontend development, where I work with technologies like HTML, CSS, and JavaScript to create engaging and user-friendly web applications.
 
 ## 📚 Currently, I'm expanding my knowledge and skills in various areas:
 
-- 🚀 **Advanced Java**: I'm diving deep into advanced Java concepts to enhance my proficiency in this versatile programming language.
+  - 🚀 **Advanced Java**: I'm diving deep into advanced Java concepts to enhance my proficiency in this versatile programming language.
 
-- 🌟 **jQuery**: Exploring the world of jQuery to add interactivity and dynamic behaviour to web applications.
+  - 🌟 **jQuery**: Exploring the world of jQuery to add interactivity and dynamic behaviour to web applications.
 
-- ⚛️ **React**: Learning the ins and outs of React to build modern and responsive user interfaces.
+  - ⚛️ **React**: Learning the ins and outs of React to build modern and responsive user interfaces.
 
-- 🚀 **Node.js and Express**: Exploring backend development with Node.js and Express, which complements my frontend skills.
-
-**💬 Feel free to reach out if you have any questions or want to discuss anything related to Java, software development, or have a friendly chat.**
+  - 🚀 **Node.js and Express**: Exploring backend development with Node.js and Express, which complements my frontend skills.
 
 **🎯 I'm actively seeking a developer job opportunity, so if you know of any exciting opportunities or want to connect, please don't hesitate to get in touch!**
 
